@@ -5,6 +5,10 @@ source 'https://rubygems.org'
 gem 'rails', '4.2.5'
 # Use postgresql as the database for Active Record
 gem 'pg', '~> 0.15'
+#bootstrap
+gem 'bootstrap-sass', '~>3.3.6'
+#sprockets
+gem 'sprockets', '2.11.0'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
