@@ -25,6 +25,8 @@ gem 'carrierwave'
 gem 'figaro'
 #carrierwave to communicate to aws
 gem "fog"
+#image-resizer
+gem 'mini_magick', '~> 4.3.1'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
