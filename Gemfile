@@ -24,7 +24,7 @@ gem 'carrierwave'
 #figaro to not put key in github public
 gem 'figaro'
 #carrierwave to communicate to aws
-gem "fog", "~> 1.3.1"
+gem "fog"
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
