@@ -27,6 +27,8 @@ gem 'figaro'
 gem "fog"
 #image-resizer
 gem 'mini_magick', '~> 4.3.1'
+#better videouploader instad of gem fog
+gem 'carrierwave-aws'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
