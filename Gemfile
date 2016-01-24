@@ -31,6 +31,8 @@ gem 'mini_magick', '~> 4.3.1'
 gem 'carrierwave-aws'
 #stripe payment
 gem 'stripe'
+#ranked-model to reorder lessons
+gem 'ranked-model'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
