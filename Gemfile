@@ -33,6 +33,8 @@ gem 'carrierwave-aws'
 gem 'stripe'
 #ranked-model to reorder lessons
 gem 'ranked-model'
+#j-query-rails
+gem 'jquery-ui-rails'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
