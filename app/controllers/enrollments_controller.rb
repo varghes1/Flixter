@@ -3,7 +3,7 @@ before_action :authenticate_user!
 
   def create
 
-  	if current_couse.premium?
+  	if current_course.premium?
 	    # Amount in cents
 	    @amount = (current_course.cost * 100).to_i
 
